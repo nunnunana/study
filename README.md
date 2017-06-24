@@ -9,7 +9,7 @@
   8. [ir기법](./README/08.md)
   9. [Sprite image](./README/09.md)
   10. [말줄임표 넣기](./README/10.md)
-  11. [grid 기법](./README/11.md)
+  11. [grid 시스템](./README/11.md)
   12. [List 중앙 정렬 방법](./README/12.md)
   13. [Sass](./README/13.md)
   14. [SassDoc](./README/14.md)
