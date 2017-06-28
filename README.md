@@ -1,4 +1,5 @@
 # 목차
+  <!--0. [링크](./README/00.md)-->
   1. [개발환경세팅](./README/01.md)
   2. [명령어](./README/02.md)
   3. [웹](./README/03.md)
@@ -22,3 +23,6 @@
   21. [BOM script](./README/21.md)
   22. [DOM script](./README/22.md)
   23. [정규표현식](./README/23.md)
+  <!--24. [취업관련](./README/24.md)-->
+  25. [컴퓨터의 이해](./README/25.md) 
+  26. [네트워크(Network) 기본 지식 / URL / HTTP](./README/26.md) 
